@@ -4,7 +4,7 @@
  * @Author: lax
  * @Date: 2023-05-06 18:35:54
  * @LastEditors: lax
- * @LastEditTime: 2023-08-09 22:37:08
+ * @LastEditTime: 2023-08-09 22:39:18
 -->
 # Taogram
 Tao即道，这是一个关于道的项目，该项目致力于将中国三式占卜等术进行程序化。
@@ -51,3 +51,7 @@ HTML自动生成数据库文件
 ## Installation
 
 ## Q&A
+
+## 联系
+### WX: taogram
+### EMAIL: 1546356935@qq.com
