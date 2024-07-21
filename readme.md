@@ -4,20 +4,40 @@
  * @Author: lax
  * @Date: 2023-05-06 18:35:54
  * @LastEditors: lax
- * @LastEditTime: 2023-08-09 22:39:18
+ * @LastEditTime: 2024-07-21 23:05:33
 -->
 # Taogram
 Tao即道，这是一个关于道的项目，该项目致力于将中国三式占卜等术进行程序化。
 
 ---
 
-## [开始]Getting started
+## 快速导航
+### 术
+* [奇门遁甲](https://github.com/Taogram/taobi)
+* [奇门图解](https://github.com/Taogram/tao_tools)
+* 八字(TODO)
+* 梅花易数(TODO)
 
+### 天干五行
+* [干支历](https://github.com/Taogram/calendar)
+* [易名](https://github.com/Taogram/tao_name)
+* [阴阳五行](https://github.com/Taogram/taichi)
+* [万年历改](https://github.com/Taogram/DBWnl)
+### 天文相关
+* [章动](https://github.com/Taogram/nutation.js)
+* [儒略日](https://github.com/Taogram/julian.js)
+* [二十四节气](https://github.com/Taogram/solar_terms.js)
+
+## 开始
+
+### 历法相关
 * 公历转干支历
 凡式术，无不离干支之历。无论后续如何起式，第一步都需要先计算出生辰八字。
     1. 如果需要进行干支历转化的可以使用[[干支历]Calender](https://github.com/Taogram/calendar.git)。
     2. 干支历由于六十甲子一循环，就有了循环的起点说法，如果你想要自定义或确认程序的干支历起始问题，你可以参考[[干支历]Calender](https://github.com/Taogram/calendar.git)。（该内容待更新）
     3. 干支历古人通过观测北斗七星的周期而确认，也就是根据地球视角的太阳循环一周的周期来判断年月。而每年的起始则又有不同取法，如建寅、建丑等，并且者往往也不同于现今公历的时间。因此什么时候为月建就会影响干支历的取用，详细可见XXX。（同样待更新）
+
+### 奇门遁甲
 * 奇门摆盘
 奇门以年月日时家分列，常有者为时家奇门。
     1. 如果需要进行奇门摆盘则可以使用[[奇门遁甲]Taobi](https://github.com/Taogram/taobi.git)，如果你对奇门的用神分布尚不熟练还可以使用本项目原创的[[奇门图解]TaoTools](https://github.com/Taogram/tao_tools)进行解盘。
@@ -28,25 +48,27 @@ Tao即道，这是一个关于道的项目，该项目致力于将中国三式�
     6. 转盘寄宫
     7. ...
 
+## [易之理，中英译法] chinese->english
+### 阴阳
+* 《道德经》：道可道，非常道，名可名，非常名
+* 《道德经》：道生一，一生二，二生三，三生万物
+* 《道德经》：有物混成，先天地生。寂兮寥兮，独立而不改，周行而不殆，可以为天地母。吾不知其名，强字曰为道。
 
+道之名也，不可谓之全，强字谓道亦可谓太极，太极生二，是为阴阳。阴阳者，不过盛衰之分，有无之辩
 
-## [模块]Modules
+* 《道德经》：反者道之动。弱者道之用。天下万物生于有，有生于无。
 
-### [[干支历]Calender](https://github.com/Taogram/calendar.git)
-#### --- [[二十四节气]SolarTerms.js](https://github.com/Taogram/solar_terms.js.git)
-#### --- [[章动]Nutation.js](https://github.com/Taogram/nutation.js.git)
-#### --- [[儒略日]Julian.js](https://github.com/Taogram/julian.js.git)
+固先无而后有，有生于无，有因无而有。
+无者，为始，为空，固取零而示之。
+有者，为起，为存，固取一而示之。
 
-### [[奇门遁甲]Taobi](https://github.com/Taogram/taobi.git)
-#### --- [[奇门图解]TaoTools](https://github.com/Taogram/tao_tools)
-#### --- [[五行与阴阳]TaiChi.js](https://github.com/Taogram/taichi)
-### [[子平]]()
-### [其他]
-#### [万年历改](https://github.com/Taogram/DBWnl)
-HTML自动生成数据库文件
-### 
+因此0为无亦为阴，1为有亦为阳，当是合乎其理。
 
-### 
+#### logos
+逻各斯（LOGOS），赫拉克利特提出的类逻辑规律概念，为西方最早的抽象用词，固取其以表阴阳。
+
+### 五行
+
 
 ## Installation
 
