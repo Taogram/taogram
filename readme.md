@@ -4,7 +4,7 @@
  * @Author: lax
  * @Date: 2023-05-06 18:35:54
  * @LastEditors: lax
- * @LastEditTime: 2024-07-23 23:10:03
+ * @LastEditTime: 2024-07-23 23:12:27
 -->
 # Taogram
 Tao即道，这是一个关于道的项目，该项目致力于将中国三式占卜等术进行程序化。
@@ -13,20 +13,20 @@ Tao即道，这是一个关于道的项目，该项目致力于将中国三式�
 
 ## 快速导航
 ### 术
-* [奇门遁甲](https://github.com/Taogram/taobi)
-* [奇门图解](https://github.com/Taogram/tao_tools)
+* [奇门遁甲-taobi](https://github.com/Taogram/taobi)
+* [奇门图解-工具图](https://github.com/Taogram/tao_tools)
 * 八字(TODO)
 * 梅花易数(TODO)
 
 ### 天干五行
-* [干支历](https://github.com/Taogram/calendar)
-* [易名](https://github.com/Taogram/tao_name)
-* [阴阳五行](https://github.com/Taogram/taichi)
-* [万年历改](https://github.com/Taogram/DBWnl)
+* [干支历-tao-calendar](https://github.com/Taogram/calendar)
+* [易名-tao-name](https://github.com/Taogram/tao_name)
+* [阴阳五行tao-taichi.js](https://github.com/Taogram/taichi)
+* [万年历改-DBWnl(一键生成数据文件)](https://github.com/Taogram/DBWnl)
 ### 天文相关
-* [章动](https://github.com/Taogram/nutation.js)
-* [儒略日](https://github.com/Taogram/julian.js)
-* [二十四节气](https://github.com/Taogram/solar_terms.js)
+* [章动-nutation.js](https://github.com/Taogram/nutation.js)
+* [儒略日-julian.js](https://github.com/Taogram/julian.js)
+* [二十四节气-solar_term.js](https://github.com/Taogram/solar_terms.js)
 
 ## 开始
 
